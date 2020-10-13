@@ -1,1 +1,1 @@
-# Example of Aho-Corasick alghoritm implementation
+Example of Aho-Corasick alghoritm implementation
